@@ -224,6 +224,6 @@ GET /api/recipes/search?title=pasta&rating=>=4.5&calories<=400
 
 
 
-## 👨‍💻 Author
+## Author
 
 Mohammad Rafeeq S
